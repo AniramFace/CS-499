@@ -7,10 +7,10 @@ My goal is to continue to build my computer science skills and gain as much know
 ## Address the following topics:
 
 **1. Collaborating in a team environment:** Throughout the program, I have learned how important it is to work with others to complete projects and solve problems. With the discussions in all of the classes, I have been able to share my idea and work to gain feedback and grow my personal work. I have also been able to read other post which I can be open to other ideas and work with them on feedback in a professional matter. 
-**3. Communicating with stakeholders:** I have learned the importance of communication with teams who may not have advance technical background. Computer Science Professionals will need to explain their work and information so that everyone can understand. The different assignments helped me with how I present the work. 
-**4. Data structure and algorithms:** I have learned how data is organized and how algorithms can be used to solve problems. Learning how to break down large projects/work into smaller steps helped me organize the way I approach the work. 
-**5. Software engineering and database:** I have learned how to plan, design, test and improve applications to make sure the code works correctly. In this project, I took a code that did not function and made it into a working code in a different program from originally. 
-**6. Security:** Security is important because business and individuals depend on it to store personal information. I have learned to take into account security when working on programs to project data. 
+**2. Communicating with stakeholders:** I have learned the importance of communication with teams who may not have advance technical background. Computer Science Professionals will need to explain their work and information so that everyone can understand. The different assignments helped me with how I present the work. 
+**3. Data structure and algorithms:** I have learned how data is organized and how algorithms can be used to solve problems. Learning how to break down large projects/work into smaller steps helped me organize the way I approach the work. 
+**4. Software engineering and database:** I have learned how to plan, design, test and improve applications to make sure the code works correctly. In this project, I took a code that did not function and made it into a working code in a different program from originally. 
+**5. Security:** Security is important because business and individuals depend on it to store personal information. I have learned to take into account security when working on programs to project data. 
 
 ## Artifacts and how they fit together
 
