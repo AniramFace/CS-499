@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    {
+      "name": "mongo-cxx-driver",
+      "version>=": "4.0.0"
+    }
+  ]
+}
